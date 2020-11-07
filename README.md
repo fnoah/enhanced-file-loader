@@ -32,7 +32,7 @@ npm install enhanced-file-loader --save-dev
 ### Yarn
 
 ```
-yarn add enhanced-file-loader -dev
+yarn add enhanced-file-loader --dev
 ```
 
 ## Getting Started
